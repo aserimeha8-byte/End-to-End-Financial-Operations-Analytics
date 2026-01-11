@@ -31,7 +31,6 @@ financial-operations-analytics/
 │
 ├── code & summary
 ├── financial_analytics.py            # Complete analysis script
-├── EXECUTIVE_SUMMARY_FINANCIAL.txt   # Executive report
 ├── kpi_summary.txt                   # Key metrics summary
 │
 ├── analyse
