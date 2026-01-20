@@ -1,4 +1,4 @@
-# End-to-End-Financial-Operations-Analytics-Project
+# End-to-End-Financial-Operations-Analytics
 Python Project for Revenue Forecasting, Churn and Profitability Analysis
 ## 📊 Project Overview
 
