@@ -14,7 +14,7 @@ A comprehensive end-to-end financial analytics project covering revenue forecast
 ### 💡 Key Results
 
 - 📈 **Revenue Forecast**: **$15,717,831.37** predicted for next 12 months
-- 🎯 **Churn Model Accuracy**: **0.73%** model accuracy
+- 🎯 **Churn Model Accuracy**: **73%** model accuracy
 - 💰 **Identified Value**: **$2,000,976.00** annual revenue at risk
 - 👥 **Customer Segments**: **4** distinct groups with targeted strategies
 
